@@ -1,0 +1,3 @@
+Model use 'preprcess.sav' for preprocess and 'hog_model.sav' for prediction.
+You can change in source code.
+Run file Draw.py only
